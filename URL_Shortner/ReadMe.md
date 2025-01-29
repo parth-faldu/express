@@ -68,8 +68,3 @@ Architecture: MVC (Model-View-Controller)
 
 **NOTE** :
  If you don’t want to change database configurations, you can directly connect to your local MongoDB server.
-
- 
-## Demo
-
-https://world-atlas-react-js.netlify.app/
